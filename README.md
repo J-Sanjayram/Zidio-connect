@@ -1,4 +1,4 @@
-# Zidio Connect - Internship Project Submission
+# Zidio Connect - Internship Project 
 
 > **Internship Submission**: This project was developed as part of an internship program, demonstrating proficiency in full-stack development with both monolithic and microservices architectures.
 
